@@ -31,3 +31,7 @@ that looked at LD using the HD bovine chip.
 Unsure where to download...
 Used to estimate pairwise LD using BovineHD BeadChip data (~700K) as seen
 [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4243187/)
+
+[Haploview](https://www.broadinstitute.org/haploview/downloads#JAR)
+Another obvious choice. Importantly, can compute LD for any number of pairwise combinations of SNPs using `r^2`. Used in the
+OvineSNP50 BeadChip for [sheep](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4659207/).
